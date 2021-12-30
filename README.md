@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **ngpevxz4x@relay.firefox.com**
+- 📫 How to reach me **QwertyIsThinking@protonmail.com**
 
 - ⚡ Fun fact **I am a human...**
 
