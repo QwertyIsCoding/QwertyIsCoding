@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **QwertyIsThinking@protonmail.com**
 
-- ⚡ Fun fact **I am a human...**
+- ⚡ Fun fact **I am still thinking...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
