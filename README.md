@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm QwertyIsThinking</h1>
 <h3 align="center">Epic programmer...</h3>
 
-- 🔭 I’m currently working on [DiscordBot.py]
+- 🔭 I’m currently working on DiscordBot.py
 
 - 🌱 I’m currently learning **Java**
 
