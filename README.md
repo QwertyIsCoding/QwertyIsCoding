@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm QwertyIsCoding</h1>
 <h3 align="center">Epic programmer...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qwertyiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="qwertyiscoding" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qwertyiscoding" alt="qwertyiscoding" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/qwerty_thinking" target="blank"><img src="https://img.shields.io/twitter/follow/qwerty_thinking?logo=twitter&style=for-the-badge" alt="qwerty_thinking" /></a> </p>
 
