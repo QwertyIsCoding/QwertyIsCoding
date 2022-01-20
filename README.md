@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/qwerty_hero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="qwerty_hero" height="30" width="40" /></a>
 <a href="https://twitter.com/qwerty_thinking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qwerty_thinking" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/qwertyisthinking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qwertyisthinking" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCj9vVvsoU3uU6_i3n0FXNXQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qwertyisthinking" height="30" width="40" /></a>
 <a href="https://discord.gg/9kjxQcma6p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9kjxQcma6p" height="30" width="40" /></a>
 </p>
 
