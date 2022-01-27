@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [QwertyBot](https://github.com/QwertyIsThinking/QwertyBot)
+- 🔭 I’m currently working on [QwertyBot](https://github.com/QwertyIsCoding/QwertyBot)
 
 - 🌱 I’m currently learning **Discord.py**
 
