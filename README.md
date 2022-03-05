@@ -6,12 +6,10 @@
 - 🔭 I’m currently working on [QwertyBot](https://github.com/QwertyIsCoding/QwertyBot)
 
 - 🌱 I’m currently learning **Discord.py**
-
-- 👨‍💻 All of my projects are available at [https://github.com/QwertyIsCoding](https://github.com/QwertyIsCoding)
-
+- 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **ngpevxz4x@relay.firefox.com**
+- 📫 How to reach me **qwertymail@duck.com**
 
 - ⚡ Fun fact **I am a human...**
 
