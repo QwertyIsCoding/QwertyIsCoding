@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on [QwertyBot](https://github.com/QwertyIsCoding/QwertyBot)
 
-- 🌱 I’m currently learning **Discord.py**
+- 🌱 I’m currently learning **Python Development**
 
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **qwertymail@duck.com**
-
-- ⚡ Fun fact **I am a human...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
