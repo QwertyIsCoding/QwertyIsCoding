@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm QwertyIsCoding</h1>
-<h3 align="center"><img src = "https://twitter.com/QwertyIsCoding/status/1509778740511150082/photo/1"></img></h3>
+<h3 align="center"><img src = "https://pbs.twimg.com/media/FPPPw0oaQAAxAdC?format=jpg&name=medium"></img></h3>
 
 
 
