@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm QwertyIsCoding</h1>
-<h3 align="center"><img src = "https://pbs.twimg.com/media/FPPPw0oaQAAxAdC?format=jpg&name=small"></img></h3>
+
 
 - 🔭 I’m currently working on [QwertyBot](https://github.com/QwertyIsCoding/QwertyBot)
 
