@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm QwertyIsCoding</h1>
-<h3 align="center">Epic programmer...</h3>
+<h3 align="center">Epic student...</h3>
 
 
 
