@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm QwertyIsCoding</h1>
 
 
-- 🔭 I’m currently working on [Qwertybenchmark](https://github.com/QwertyIsCoding/QwertyBenchmark)
+- 🔭 I’m currently working on [QwertyBenchmark](https://github.com/QwertyIsCoding/QwertyBenchmark)
 
 - 🌱 I’m currently learning **Python Development**
 
