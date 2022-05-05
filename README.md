@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm QwertyIsCoding</h1>
+<h1 align="center">QwertyIsCoding</h1>
 
 
 - 🔭 I’m currently working on [QwertyBenchmark](https://github.com/QwertyIsCoding/QwertyBenchmark)
