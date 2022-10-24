@@ -1,13 +1,13 @@
 <h1 align="center">QwertyIsCoding</h1>
 
 
-- 🔭 I’m currently working on [QwertyBot](https://github.com/QwertyIsCoding/QwertyBot)
+- I’m currently working on [QwertyBot](https://github.com/QwertyIsCoding/QwertyBot)
 
-- 🌱 I’m currently learning **Python Development**
+- I’m currently learning **Python Development**
 
-- 💬 Ask me about **Web development**
+- Ask me about **Web development**
 
-- 📫 How to reach me **qwertymail@duck.com**
+- Contact me **qwertymail@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
