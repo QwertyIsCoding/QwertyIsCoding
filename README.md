@@ -1,4 +1,4 @@
-<h1 align="center">QwertyIsCoding</h1>
+<h1 align="center">About</h1>
 
 
 - I’m currently working on [QwertyBot](https://github.com/QwertyIsCoding/QwertyBot)
