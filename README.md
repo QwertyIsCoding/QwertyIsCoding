@@ -1,7 +1,7 @@
 <h1 align="center">About</h1>
 
 
-- I’m currently working on [QwertyBot](https://github.com/QwertyIsCoding/Blender-Portfolio)
+- I’m currently working on [Blender-Portfolio](https://github.com/QwertyIsCoding/Blender-Portfolio)
 
 - I’m currently learning **Python Development**
 
