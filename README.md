@@ -1,4 +1,5 @@
-<h1 align="center">![QwertyIsCoding](https://user-images.githubusercontent.com/77963043/200377673-de84a5c5-bdff-434f-a67b-1efd1121967f.gif)</h1>
+#About
+![QwertyIsCoding](https://user-images.githubusercontent.com/77963043/200378133-add375b8-d055-4143-890d-065b925937f6.gif)
 
 
 - I’m currently working on [Blender-Portfolio](https://github.com/QwertyIsCoding/Blender-Portfolio)
