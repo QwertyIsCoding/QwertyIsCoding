@@ -1,6 +1,6 @@
 # About
 
-<img src="https://github.com/QwertyIsCoding/QwertyIsCoding/blob/main/Untitled.gif?raw=true"/>
+<center><img src="https://github.com/QwertyIsCoding/QwertyIsCoding/blob/main/Untitled.gif?raw=true"/></center>
 
 - I’m currently working on [Blender-Portfolio](https://github.com/QwertyIsCoding/Blender-Portfolio)
 
