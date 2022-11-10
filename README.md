@@ -1,6 +1,7 @@
 # About
-
-<center><img src="https://github.com/QwertyIsCoding/QwertyIsCoding/blob/main/Untitled.gif?raw=true"; align="center"/></center>
+<h1 alight="center">
+<img src="https://github.com/QwertyIsCoding/QwertyIsCoding/blob/main/Untitled.gif?raw=true">
+ </h1>
 
 - I’m currently working on [Blender-Portfolio](https://github.com/QwertyIsCoding/Blender-Portfolio)
 
