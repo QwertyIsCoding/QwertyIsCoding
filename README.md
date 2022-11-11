@@ -3,7 +3,7 @@
 <div class="half-half-image-text">
 <div class="container" >
 <div class="row">
-<img src="https://github.com/QwertyIsCoding/QwertyIsCoding/blob/main/Untitled.gif?raw=true">
+<img src="https://github.com/QwertyIsCoding/QwertyIsCoding/blob/main/somalinga.gif?raw=true">
  </h1>
 
 - I’m currently working on [Blender-Portfolio](https://github.com/QwertyIsCoding/Blender-Portfolio)
