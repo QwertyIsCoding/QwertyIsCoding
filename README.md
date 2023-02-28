@@ -5,8 +5,7 @@
 <div class="row">
 <img src="https://github.com/QwertyIsCoding/QwertyIsCoding/blob/main/somalinga.gif?raw=true">
  </h1>
- 
- 
+
 Updates:
  I am currently taking a break from coding. I am quite burnt out and have a lot of projects to maintain so this is getting out of hand. Will still maintain the projects but new projects won't be coming out as quickly as before. I will work on small bug patches and updates to existing projects. 
  
