@@ -7,7 +7,7 @@
  </h1>
 
 Updates:
- I am currently taking a break from coding. I am quite burnt out and have a lot of projects to maintain so this is getting out of hand. Will still maintain the projects but new projects won't be coming out as quickly as before. I will work on small bug patches and updates to existing projects. 
+ I am currently taking a break. I am quite burnt out and have a lot of projects to maintain so this is getting out of hand. I'll still try to maintain the existing projects but new projects won't be coming out as quickly as before. I will work on small bug patches and updates to existing projects. 
  
  
 - I’m currently working on [Blender-Portfolio](https://github.com/QwertyIsCoding/Blender-Portfolio)
