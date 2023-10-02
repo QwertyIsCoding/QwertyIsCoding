@@ -3,7 +3,7 @@
 <div class="container" >
 <div class="row">
 
-![Alt Text](https://images-ext-2.discordapp.net/external/HSlTkpbBkkp1I-4N46qo79P7FgGkFIl1bfGj_Zc0WN8/%3Fraw%3Dtrue/https/github.com/QwertyIsCoding/QwertyIsCoding/blob/main/somalinga.gif?width=1500&height=450)
+![Alt Text](https://github.com/QwertyIsCoding/QwertyIsCoding/blob/main/somalinga.gif)
  
 - I’m currently working on [Blender-Portfolio](https://github.com/QwertyIsCoding/Blender-Portfolio)
 ![Screenshot 2022-11-17 12 42 11 PM](https://user-images.githubusercontent.com/77963043/202519109-b174fe9f-4c4a-4c69-a191-5563953bb574.png)
