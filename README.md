@@ -3,7 +3,8 @@
 <div class="half-half-image-text">
 <div class="container" >
 <div class="row">
-<img src="https://github.com/QwertyIsCoding/QwertyIsCoding/blob/main/somalinga.gif?raw=true">
+ <!--GitHub doesn't seem to work so I'm gonna try Discord-->
+<img src="https://raw.githubusercontent.com/QwertyIsCoding/QwertyIsCoding/main/somalinga.gif">
  </h1>  
 
 Updates:
