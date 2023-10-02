@@ -4,7 +4,7 @@
 <div class="container" >
 <div class="row">
  <!--GitHub doesn't seem to work so I'm gonna try Discord-->
-<img src="https://images-ext-2.discordapp.net/external/HSlTkpbBkkp1I-4N46qo79P7FgGkFIl1bfGj_Zc0WN8/%3Fraw%3Dtrue/https/github.com/QwertyIsCoding/QwertyIsCoding/blob/main/somalinga.gif?width=1500&height=450">
+<img src="https://images-ext-2.discordapp.net/external/HSlTkpbBkkp1I-4N46qo79P7FgGkFIl1bfGj_Zc0WN8/%3Fraw%3Dtrue/https/github.com/QwertyIsCoding/QwertyIsCoding/blob/main/somalinga.gif?" width="40" height="40" />
  </h1>   
  
 - I’m currently working on [Blender-Portfolio](https://github.com/QwertyIsCoding/Blender-Portfolio)
