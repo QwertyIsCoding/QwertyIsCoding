@@ -12,4 +12,5 @@
 - Ask me about **Java development** and **3D graphics/graphic design**
 ![Screenshot 2022-11-17 12 42 11 PM](https://user-images.githubusercontent.com/77963043/202519109-b174fe9f-4c4a-4c69-a191-5563953bb574.png)
 - Contact me **qwertymail@duck.com**
-
+![Screenshot 2022-11-17 12 42 11 PM](https://user-images.githubusercontent.com/77963043/202519109-b174fe9f-4c4a-4c69-a191-5563953bb574.png)
+<img src="https://myreadme.vercel.app/api/embed/QwertyIsCoding?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
