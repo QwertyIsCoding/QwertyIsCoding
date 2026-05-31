@@ -1,3 +1,3 @@
 # About
 ![Alt Text](https://github.com/QwertyIsCoding/QwertyIsCoding/blob/main/somalinga.gif)
-- This profile is planned to be archived. All projects will be archived as well.
+- This profile is planned to be archived.
